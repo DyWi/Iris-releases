@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/icon.png" width="128" height="128" alt="Iris icon"></p>
+
 # Iris
 
 Iris is a web browser for the Mac, built on WebKit by Dylan Willis for his own
